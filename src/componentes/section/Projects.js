@@ -9,7 +9,7 @@ function Projects(){
     return(
         <div className={styles.projects}id="Projects">
             <h1>Projetos</h1>
-            <Card 
+            <Card
             img={boootcamp} 
             title='Landin Page' 
             tech='HTML, CSS, JS' 
@@ -22,7 +22,7 @@ function Projects(){
             tech='HTML, CSS, JS' 
             description='Desenvolvimento de uma anding page para o lançamento da formação em tecnologia'
             repo='https://github.com/MatheusNascimento99/Landing-Page-CCXP'
-            site='https://ccxp-landing-page-project.netlify.app/'/>
+            site ='https://ccxp-landing-page-project.netlify.app/'/>
             <Card
             img={cadastro} 
             title='Landin Page' 

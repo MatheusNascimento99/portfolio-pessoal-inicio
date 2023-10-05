@@ -1,13 +1,20 @@
-.presentataion{
+.presentation{
     text-align: left;
-    margin-left: 15%;
+    margin-left: 10%;
 }
 
-.presentataion h1{
+.presentation h1{
     font-size: 45px;
 
 }
 
-.presentataion h4{
+.presentation h4{
     font-size: 25px;
+}
+
+.presentation p{
+    font-size: 22px;
+    color: white;
+    font-weight: bolder;
+    text-shadow: 5px 5px 10px rgb(33, 17, 179);
 }
