@@ -3,6 +3,7 @@ import js from '../../Image/Skill/js.svg'
 import html from '../../Image/Skill/html.svg'
 import css from '../../Image/Skill/css.svg'
 import react from '../../Image/Skill/react.svg'
+import python from '../../Image/Skill/python.svg'
 
 function Skills (){
     return(
@@ -14,6 +15,7 @@ function Skills (){
                 <img className={styles.imagens} src={html}/>
                 <img className={styles.imagens} src={css}/>
                 <img className={styles.imagens} src={react}/>
+                <img className={styles.imagens} src={python}/>
             </div>
         </div>
     )
