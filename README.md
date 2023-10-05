@@ -20,8 +20,13 @@ Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 Telas <br>
-![image](https://github.com/MatheusNascimento99/portfolio-pessoal-inicio/assets/139829100/7569c649-26a9-4fca-ad2f-8b280b7471c9)
+![image](https://github.com/MatheusNascimento99/portfolio-pessoal-inicio/assets/139829100/04703c57-f407-42b6-81f0-db2512bafa05)
+
+
 <br>
+
 ![image](https://github.com/MatheusNascimento99/portfolio-pessoal-inicio/assets/139829100/4116a368-3cbe-49cb-a9a6-4a9f3f6dd36d)
+
 <br>
+
 ![image](https://github.com/MatheusNascimento99/portfolio-pessoal-inicio/assets/139829100/8dedfbba-1d50-4e0e-a640-63963598e9ef)
